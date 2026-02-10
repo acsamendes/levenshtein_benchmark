@@ -1,0 +1,10 @@
+.venv
+venv/
+__pycache__/
+*.pyc
+*.png
+*.bin
+*.csv
+.idea/
+.vscode/
+*vscode*
