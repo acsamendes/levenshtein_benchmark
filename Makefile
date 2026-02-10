@@ -2,7 +2,7 @@ all: graph
 
 compile:
 	@echo "--- Compilando código C ---"
-	gcc -O2 codigos/benchmark_levenshtein.c -o codigos/benchmark.bin
+	gcc codigos/benchmark_levenshtein.c -o codigos/benchmark.bin
 
 run: compile
 	@echo "--- Executando Benchmark ---"
