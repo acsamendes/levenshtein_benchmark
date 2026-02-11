@@ -44,7 +44,7 @@ Isso irá:
 
 ## Resultados Esperados
 
-O algoritmo de Wagner-Fischer possui complexidade de tempo O(m x n) sendo m e n as duas strings a serem comparadas. Caso as strings tenham o mesmo tamanho, a complexidade se torna O(n²).
+O algoritmo de Wagner-Fischer possui complexidade de tempo $O(m\times n)$ sendo $m$ e $n$ as duas strings a serem comparadas. Caso as strings tenham o mesmo tamanho, a complexidade se torna $O(n²)$.
 
 Ao executar o `make`, um gráfico será gerado mostrando a curva de tempo de execução em função do tamanho das strings. A curva resultante deve se assemelhar a uma parábola, confirmando a complexidade teórica.
 
