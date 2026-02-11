@@ -38,7 +38,7 @@ make
 Isso irá:
 
 1. Compilar o código C.
-2. Executar o binário (que testará strings de tamanho 100 até 2000).
+2. Executar o binário (que testará strings de tamanho 1000 até 45000).
 3. Salvar os tempos em `dados/resultados.csv`.
 4. Gerar o gráfico de desempenho em `graficos/grafico_desempenho.png`.
 
